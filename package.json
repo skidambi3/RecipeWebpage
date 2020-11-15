@@ -1,0 +1,19 @@
+{
+  "name": "plextechprojectone",
+  "version": "1.0.0",
+  "description": "Hey everyone! This project will require you to create a basic React app showing different recipes. Based off what you have learned about JSX, React, JavaScript, HTML, CSS, and APIs, try your best to show a user a view of 10 data objects you choose. You will need to make a copy of this repository and clone it onto your system in order to push changes to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluepegasus123/PlexTechProjectOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluepegasus123/PlexTechProjectOne/issues"
+  },
+  "homepage": "https://github.com/bluepegasus123/PlexTechProjectOne#readme"
+}
