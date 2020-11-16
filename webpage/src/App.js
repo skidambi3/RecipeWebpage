@@ -14,7 +14,7 @@ class App extends React.Component {
     return (
       <div className='App'>
         <Recipes />
-        <Recipe name="Pizza" ingredients='Flour, Yeast, Cheese, Tomato Sauce, Olive Oil, Water' steps='6' time='130' />
+        {/* <Recipe name="Pizza" ingredients='Flour, Yeast, Cheese, Tomato Sauce, Olive Oil, Water' steps='6' time='130' /> */}
       </div>
     );
   }
